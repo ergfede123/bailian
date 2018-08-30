@@ -1,0 +1,61 @@
+﻿@charset "utf-8";
+/* CSS Document */
+body,ul,dl,dt,dd,p,ol,h1,h2,h3,h4,h5,h6,form,img,td,th,fieldset,legend,select,textarea,input{
+	margin:0;
+	padding:0;
+}
+
+h1,h2,h3,h4,h5,h6{
+	font-weight:normal;	
+}  
+/*input,select,fieldset,加超链接的img 有边框*/
+/*td th h5新标签,hgrounp都是块级元素*/ 
+/*子选择器问题*/
+/*text-transform默认是none*/
+/*scale不可以写负值*/
+/*设置文本溢出不要忘记width*/
+/*position有五个属性*/
+ 
+/*autocomplete不是新增属性*/
+/*order忘了记*/
+
+img,input,select,button{
+	border:none;
+	border:0;
+}
+img{
+	border:none;
+	display:block;
+}
+ul,ol,li{
+	list-style:none;
+}
+i,em,strong,b{
+	font-style:normal;
+	font-weight:normal;	
+}
+a,input,area{outline:none;}
+a{text-decoration:none;}
+
+
+/*清除浮动*/
+.clearfix:after{
+	content:".";
+	height:0;
+	visibility:hidden;
+	clear:both;
+	display:block;
+}
+.clearfix{zoom:1}
+
+.fl{float:left;}
+.fr{float:right;}
+
+
+
+
+.nobackground{background:none!important;}
+.noborder{border:none!important;}
+.nomargin{margin:0!important;}
+
+

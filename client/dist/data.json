@@ -1,0 +1,516 @@
+{
+	"shop1":{
+		"name" : "小米手机",
+		"list" : [
+			{
+				"id" : "1",
+				"name" : "小米8",
+				"src" : "609269815_360x360.jpg",
+				"price" : "999.00",
+				"y_price":"889.00",
+				"xiaoliang":23,
+				"pinglun":2352,
+				"size":"6英寸",
+				"imgs":["1.jpg","2.jpg"],
+				"special":["八核内存"],
+				"shangou":"",
+				"des":"华为 HUAWEI nova3 PAR-AL00 亮黑色 6..."
+			}
+		]
+	},
+	"shop2":{
+		"name" : "Vivo",
+		"list" : [
+			{
+				"id" : "2",
+				"name" : "VIVO1",
+				"src" : "27279721_200x200.jpg",
+				"price" : "1200.00",
+				"y_price":"1134.00",
+				"xiaoliang":12,
+				"pinglun":23525,
+				"size":"6英寸",
+				"imgs":["1.jpg","2.jpg"],
+				"special":["八核内存","全网通"],
+				"shangou":"icon-bl-2.png",
+				"des":"【官方授权】 Apple iPhone8 Plus 64GB..."
+			}
+		]
+	},
+	"shop3":{
+		"name" : "HUAWEI",
+		"list" : [
+			{
+				"id" : "3",
+				"name" : "VIVO1",
+				"src" : "107479851_200x200.jpg",
+				"price" : "1800.00",
+				"y_price":"1889.00",
+				"xiaoliang":32213,
+				"pinglun":123123,
+				"size":"6英寸",
+				"imgs":["1.jpg","2.jpg"],
+				"special":["全网通"],
+				"shangou":"",
+				"des":"小米8 全面屏 全网通标准版 6GB+128GB 白色"
+			}
+		]
+	},
+	"shop4":{
+		"name" : "HUAWEI",
+		"list" : [
+			{
+				"id" : "4",
+				"name" : "VIVO1",
+				"src" : "342816512_200x200.jpg",
+				"price" : "2005.00",
+				"y_price":"1988.00",
+				"xiaoliang":234,
+				"pinglun":12345353,
+				"size":"6英寸",
+				"imgs":["1201077453_360x360.jpg","1299347161_360x360.jpg","1674054737_200x200.jpg","1798486750_360x360.jpg","1798486750_360x360.jpg"],
+				"special":["八核内存"],
+				"shangou":"",
+				"des":"华为 荣耀10 COL-AL10 幻影紫 6+128GB 尊..."
+			}
+		]
+	},
+	"shop5":{
+		"name" : "HUAWEI",
+		"list" : [
+			{
+				"id" : "5",
+				"name" : "VIVO1",
+				"src" : "418716740_200x200.jpg",
+				"price" : "1854.00",
+				"y_price":"2001.00",
+				"xiaoliang":456,
+				"pinglun":124,
+				"size":"6英寸",
+				"imgs":["1201077453_360x360.jpg","1299347161_360x360.jpg","1674054737_200x200.jpg","1798486750_360x360.jpg","1798486750_360x360.jpg"],
+				"special":["八核内存","全网通"],
+				"shangou":"icon-bl-2.png",
+				"des":"vivo X21 全网通 6GB+128GB 冰钻黑"
+			}
+		]
+	},
+	"shop6":{
+		"name" : "XIAOMI",
+		"list" : [
+			{
+				"id" : "6",
+				"name" : "VIVO1",
+				"src" : "459915528_200x200.jpg",
+				"price" : "3054.00",
+				"y_price":"3250.00",
+				"xiaoliang":456,
+				"pinglun":45456,
+				"size":"6英寸",
+				"imgs":["1201077453_360x360.jpg","1299347161_360x360.jpg","1674054737_200x200.jpg","1.jpg","1798486750_360x360.jpg"],
+				"special":["八核内存","全网通"],
+				"shangou":"",
+				"des":"华为 荣耀9i 幻夜黑 4+128GB 全网通版4G手机 双..."
+			}
+		]
+	},
+	"shop7":{
+		"name" : "XIAOMI",
+		"list" : [
+			{
+				"id" : "7",
+				"name" : "VIVO1",
+				"src" : "666695115_200x200.jpg",
+				"price" : "123.00",
+				"y_price":"156.00",
+				"xiaoliang":4678,
+				"pinglun":345,
+				"size":"6英寸",
+				"imgs":["1201077453_360x360.jpg","1299347161_360x360.jpg","2.jpg","1798486750_360x360.jpg","1798486750_360x360.jpg"],
+				"special":["八核内存","全网通"],
+				"shangou":"icon-bl-2.png",
+				"des":"【官方授权】Apple iPhone8 64GB 金色 移动..."
+			}
+		]
+	},
+	"shop8":{
+		"name" : "XIAOMI",
+		"list" : [
+			{
+				"id" : "8",
+				"name" : "VIVO1",
+				"src" : "1342410243_200x200.jpg",
+				"price" : "234.00",
+				"y_price":"302.00",
+				"xiaoliang":731,
+				"pinglun":56757,
+				"size":"6英寸",
+				"imgs":["1201077453_360x360.jpg","2.jpg","1.jpg","1798486750_360x360.jpg","1798486750_360x360.jpg"],
+				"special":["八核内存","全网通"],
+				"shangou":"",
+				"des":"【官方授权】Apple iPhone X 256GB 深空灰..."
+			}
+		]
+	},
+	"shop9":{
+		"name" : "XIAOMI",
+		"list" : [
+			{
+				"id" : "9",
+				"name" : "VIVO1",
+				"src" : "1114368540_200x200.jpg",
+				"price" : "345.00",
+				"y_price":"456.00",
+				"xiaoliang":4567,
+				"pinglun":678346,
+				"size":"6英寸",
+				"imgs":["2.jpg","1299347161_360x360.jpg","1674054737_200x200.jpg","1798486750_360x360.jpg","1.jpg"],
+				"special":["八核内存","全网通"],
+				"shangou":"icon-bl-2.png",
+				"des":"华为 荣耀10 COL-AL10 幻夜黑 6+128GB 尊..."
+			}
+		]
+	},
+	"shop10":{
+		"name" : "XIAOMI",
+		"list" : [
+			{
+				"id" : "10",
+				"name" : "VIVO1",
+				"src" : "1557221335_200x200.jpg",
+				"price" : "1234.00",
+				"y_price":"1456.00",
+				"xiaoliang":3123,
+				"pinglun":4563,
+				"size":"6英寸",
+				"imgs":["1201077453_360x360.jpg","1299347161_360x360.jpg","1674054737_200x200.jpg","1798486750_360x360.jpg","1798486750_360x360.jpg"],
+				"special":["八核内存"],
+				"shangou":"",
+				"des":"【官方授权】 Apple iPhone8 64GB 红色特别..."
+			}
+		]
+	},
+	"shop11":{
+		"name" : "XIAOMI",
+		"list" : [
+			{
+				"id" : "11",
+				"name" : "VIVO1",
+				"src" : "1701797563_200x200.jpg",
+				"price" : "7653.00",
+				"y_price":"8534.00",
+				"xiaoliang":4537,
+				"pinglun":345,
+				"size":"6英寸",
+				"imgs":["1201077453_360x360.jpg","1299347161_360x360.jpg","1674054737_200x200.jpg","1798486750_360x360.jpg","1.jpg"],
+				"special":["八核内存","全网通"],
+				"shangou":"icon-bl-2.png",
+				"des":"乔西Jonesy's 低温巴氏鲜奶 1L*2 澳大利亚进口"
+			}
+		]
+	},
+	"shop12":{
+		"name" : "XIAOMI",
+		"list" : [
+			{
+				"id" : "12",
+				"name" : "VIVO1",
+				"src" : "1608889256_200x200.jpg",
+				"price" : "4567.00",
+				"y_price":"5246.00",
+				"xiaoliang":456378,
+				"pinglun":234,
+				"size":"6英寸",
+				"imgs":["2.jpg","1674054737_200x200.jpg","1.jpg"],
+				"special":["八核内存"],
+				"shangou":"",
+				"des":"拾分味道 夹心肉糜 300g"
+			}
+		]
+	},
+	"shop13":{
+		"name" : "XIAOMI",
+		"list" : [
+			{
+				"id" : "13",
+				"name" : "VIVO1",
+				"src" : "1489196575_200x200.jpg",
+				"price" : "2342.00",
+				"y_price":"3256.00",
+				"xiaoliang":45378,
+				"pinglun":4534,
+				"size":"6英寸",
+				"imgs":["1201077453_360x360.jpg","1299347161_360x360.jpg","1674054737_200x200.jpg","1798486750_360x360.jpg"],
+				"special":["八核内存","全网通"],
+				"shangou":"icon-bl-2.png",
+				"des":"华为 Mate10 pro BLA-AL00 摩卡金 6+1..."
+			}
+		]
+	},
+	"shop14":{
+		"name" : "XIAOMI",
+		"list" : [
+			{
+				"id" : "14",
+				"name" : "VIVO1",
+				"src" : "2108602770_200x200.jpg",
+				"price" : "1234.00",
+				"y_price":"1456.00",
+				"xiaoliang":345,
+				"pinglun":267,
+				"size":"6英寸",
+				"imgs":["1.jpg","1299347161_360x360.jpg","2.jpg","1674054737_200x200.jpg","1798486750_360x360.jpg"],
+				"special":["八核内存"],
+				"shangou":"",
+				"des":"华为 HUAWEI P20 EML-AL00 香槟金 6+6..."
+			}
+		]
+	},
+	"shop15":{
+		"name" : "XIAOMI",
+		"list" : [
+			{
+				"id" : "15",
+				"name" : "VIVO1",
+				"src" : "1399267443_200x200.jpg",
+				"price" : "3452.00",
+				"y_price":"3568.00",
+				"xiaoliang":4565,
+				"pinglun":45,
+				"size":"6英寸",
+				"imgs":["1201077453_360x360.jpg","1299347161_360x360.jpg","1.jpg","1674054737_200x200.jpg","1798486750_360x360.jpg"],
+				"special":["八核内存","全网通"],
+				"shangou":"icon-bl-2.png",
+				"des":"华为 荣耀Play COR-AL10 极光蓝 6+64GB ..."
+			}
+		]
+	},
+	"shop16":{
+		"name" : "XIAOMI",
+		"list" : [
+			{
+				"id" : "16",
+				"name" : "VIVO1",
+				"src" : "2004621368_200x200.jpg",
+				"price" : "546.00",
+				"y_price":"645.00",
+				"xiaoliang":456,
+				"pinglun":4537,
+				"size":"6英寸",
+				"imgs":["1201077453_360x360.jpg","1299347161_360x360.jpg","1674054737_200x200.jpg","1798486750_360x360.jpg"],
+				"special":["八核内存","全网通"],
+				"shangou":"",
+				"des":"OPPO R15 标准版 全网通6G+128G 双卡双待手机..."
+			}
+		]
+	},
+	"shop17":{
+		"name" : "XIAOMI",
+		"list" : [
+			{
+				"id" : "17",
+				"name" : "VIVO1",
+				"src" : "2132127881_200x200.jpg",
+				"price" : "2433.00",
+				"y_price":"2587.00",
+				"xiaoliang":237,
+				"pinglun":782,
+				"size":"6英寸",
+				"imgs":["1201077453_360x360.jpg","1299347161_360x360.jpg","1674054737_200x200.jpg","1798486750_360x360.jpg"],
+				"special":["八核内存","全网通"],
+				"shangou":"icon-bl-2.png",
+				"des":"华为 荣耀 V10 BKL-AL20 魅丽红 6+64GB ..."
+			}
+		]
+	},
+	"shop18":{
+		"name" : "XIAOMI",
+		"list" : [
+			{
+				"id" : "18",
+				"name" : "VIVO1",
+				"src" : "1019827015_200x200.jpg",
+				"price" : "1453.00",
+				"y_price":"1687.00",
+				"xiaoliang":1275,
+				"pinglun":43378,
+				"size":"6英寸",
+				"imgs":["1201077453_360x360.jpg","1299347161_360x360.jpg","1674054737_200x200.jpg","1798486750_360x360.jpg"],
+				"special":["八核内存","全网通"],
+				"shangou":"",
+				"des":"华为 HUAWEI P20 Pro CLT-AL00 极光色..."
+			}
+		]
+	},
+	"shop19":{
+		"name" : "XIAOMI",
+		"list" : [
+			{
+				"id" : "19",
+				"name" : "VIVO1",
+				"src" : "1222311382_200x200.jpg",
+				"price" : "1842.00",
+				"y_price":"2157.00",
+				"xiaoliang":3782,
+				"pinglun":54,
+				"size":"6英寸",
+				"imgs":["1201077453_360x360.jpg","1299347161_360x360.jpg","1674054737_200x200.jpg","1798486750_360x360.jpg"],
+				"special":["八核内存","全网通"],
+				"shangou":"icon-bl-2.png",
+				"des":"【官方授权】Apple iPhone X 256GB 银色 ..."
+			}
+		]
+	},
+	"shop20":{
+		"name" : "XIAOMI",
+		"list" : [
+			{
+				"id" : "20",
+				"name" : "VIVO1",
+				"src" : "921445100_200x200.jpeg",
+				"price" : "1977.00",
+				"y_price":"2354.00",
+				"xiaoliang":457,
+				"pinglun":12,
+				"size":"6英寸",
+				"imgs":["1201077453_360x360.jpg","1299347161_360x360.jpg","1674054737_200x200.jpg","1798486750_360x360.jpg"],
+				"special":["八核内存","全网通"],
+				"shangou":"",
+				"des":"【官方授权】Apple iPhone X 256GB 深空灰..."
+			}
+		]
+	},
+	"shop21":{
+		"name" : "XIAOMI",
+		"list" : [
+			{
+				"id" : "21",
+				"name" : "VIVO1",
+				"src" : "230893245_200x200.jpg",
+				"price" : "2815.00",
+				"y_price":"3247.00",
+				"xiaoliang":68554,
+				"pinglun":357,
+				"size":"6英寸",
+				"imgs":["1201077453_360x360.jpg","1299347161_360x360.jpg","1674054737_200x200.jpg","1798486750_360x360.jpg"],
+				"special":["八核内存","全网通"],
+				"shangou":"icon-bl-2.png",
+				"des":"黑鲨（BLACK SHARK）游戏手机 8GB+128GB ..."
+			}
+		]
+	},
+	"shop22":{
+		"name" : "XIAOMI",
+		"list" : [
+			{
+				"id" : "22",
+				"name" : "VIVO1",
+				"src" : "1393202574_200x200.jpg",
+				"price" : "2675.00",
+				"y_price":"3014.00",
+				"xiaoliang":456,
+				"pinglun":951,
+				"size":"6英寸",
+				"imgs":["1201077453_360x360.jpg","1299347161_360x360.jpg","1674054737_200x200.jpg","1798486750_360x360.jpg"],
+				"special":["八核内存","全网通"],
+				"shangou":"icon-bl-2.png",
+				"des":"华为 HUAWEI 畅享8e 蓝色 3+32GB 全网通4G..."
+			}
+		]
+	},
+	"shop23":{
+		"name" : "XIAOMI",
+		"list" : [
+			{
+				"id" : "23",
+				"name" : "VIVO1",
+				"src" : "1310618656_200x200.jpg",
+				"price" : "1475.00",
+				"y_price":"1475.00",
+				"xiaoliang":45345,
+				"pinglun":852,
+				"size":"6英寸",
+				"imgs":["1201077453_360x360.jpg","1299347161_360x360.jpg","1674054737_200x200.jpg","1798486750_360x360.jpg"],
+				"special":["八核内存","全网通"],
+				"shangou":"",
+				"des":"黑鲨（BLACK SHARK）游戏手机 8GB+128GB ..."
+			}
+		]
+	},
+	"shop24":{
+		"name" : "XIAOMI",
+		"list" : [
+			{
+				"id" : "24",
+				"name" : "VIVO1",
+				"src" : "614294645_200x200.jpg",
+				"price" : "3246.00",
+				"y_price":"3333.00",
+				"xiaoliang":623,
+				"pinglun":756,
+				"size":"6英寸",
+				"imgs":["1201077453_360x360.jpg","1299347161_360x360.jpg","1674054737_200x200.jpg","1798486750_360x360.jpg"],
+				"special":["八核内存","全网通"],
+				"shangou":"icon-bl-2.png",
+				"des":"黑鲨（BLACK SHARK）游戏手机 6GB+64GB 极..."
+			}
+		]
+	},
+	"shop25":{
+		"name" : "XIAOMI",
+		"list" : [
+			{
+				"id" : "25",
+				"name" : "VIVO1",
+				"src" : "1545373450_200x200.jpg",
+				"price" : "2458.00",
+				"y_price":"2667.00",
+				"xiaoliang":65453,
+				"pinglun":985,
+				"size":"6英寸",
+				"imgs":["1201077453_360x360.jpg","1299347161_360x360.jpg","1674054737_200x200.jpg","1798486750_360x360.jpg"],
+				"special":["八核内存","全网通"],
+				"shangou":"",
+				"des":"华为 HUAWEI 畅享8e 青春 DRA-AL00 黑色 ..."
+			}
+		]
+	},
+	"shop26":{
+		"name" : "XIAOMI",
+		"list" : [
+			{
+				"id" : "26",
+				"name" : "VIVO1",
+				"src" : "2011066938_200x200.jpg",
+				"price" : "1865.00",
+				"y_price":"2014.00",
+				"xiaoliang":7832,
+				"pinglun":687,
+				"size":"6英寸",
+				"imgs":["1201077453_360x360.jpg","1299347161_360x360.jpg","1674054737_200x200.jpg","1798486750_360x360.jpg"],
+				"special":["八核内存","全网通"],
+				"shangou":"icon-bl-2.png",
+				"des":"华为 荣耀9i 梦幻紫 4+128GB 全网通版4G手机 双..."
+			}
+		]
+	},
+	"shop27":{
+		"name" : "XIAOMI",
+		"list" : [
+			{
+				"id" : "27",
+				"name" : "VIVO1",
+				"src" : "1893628964_200x200.jpg",
+				"price" : "4532.00",
+				"y_price":"4875.00",
+				"xiaoliang":9545,
+				"pinglun":5678,
+				"size":"6英寸",
+				"imgs":["1201077453_360x360.jpg","1299347161_360x360.jpg","1674054737_200x200.jpg","1798486750_360x360.jpg"],
+				"special":["八核内存","全网通"],
+				"shangou":"",
+				"des":"华为 荣耀9i 碧玉靑 4+128GB 全网通版4G手机 双..."
+			}
+		]
+	}
+	
+}

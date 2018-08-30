@@ -1,0 +1,241 @@
+{
+	"shop1":{
+		"name" : "小米手机",
+		"list" : [
+			{
+				"id" : "1",
+				"name" : "小米8",
+				"src" : "609269815_360x360.jpg",
+				"price" : "999.00",
+				"xiaoliang":23,
+				"pinglun":123,
+				"size":"6英寸",
+				"imgs":["1201077453_360x360.jpg","1299347161_360x360.jpg","1674054737_200x200.jpg","1798486750_360x360.jpg"],
+				"special":["八核内存"],
+				"shangou":"icon-bl-2.png"
+			}
+		]
+	},
+	"shop2":{
+		"name" : "Vivo",
+		"list" : [
+			{
+				"id" : "2",
+				"name" : "VIVO1",
+				"src" : "27279721_200x200.jpg",
+				"price" : "1200.00",
+				"xiaoliang":23,
+				"pinglun":123,
+				"size":"6英寸",
+				"imgs":["1201077453_360x360.jpg","1299347161_360x360.jpg","1674054737_200x200.jpg","1798486750_360x360.jpg"],
+				"special":["八核内存","全网通"],
+				"shangou":"icon-bl-2.png"
+			}
+		]
+	},
+	"shop3":{
+		"name" : "HUAWEI",
+		"list" : [
+			{
+				"id" : "3",
+				"name" : "VIVO1",
+				"src" : "107479851_200x200.jpg",
+				"price" : "1800.00",
+				"xiaoliang":23,
+				"pinglun":123,
+				"size":"6英寸",
+				"imgs":["1201077453_360x360.jpg","1299347161_360x360.jpg","1674054737_200x200.jpg","1798486750_360x360.jpg"],
+				"special":["全网通"],
+				"shangou":"icon-bl-2.png"
+			}
+		]
+	},
+	"shop4":{
+		"name" : "HUAWEI",
+		"list" : [
+			{
+				"id" : "4",
+				"name" : "VIVO1",
+				"src" : "342816512_200x200.jpg",
+				"price" : "2005.00",
+				"xiaoliang":23,
+				"pinglun":123,
+				"size":"6英寸",
+				"imgs":["1201077453_360x360.jpg","1299347161_360x360.jpg","1674054737_200x200.jpg","1798486750_360x360.jpg"],
+				"special":["八核内存"],
+				"shangou":"icon-bl-2.png"
+			}
+		]
+	},
+	"shop5":{
+		"name" : "HUAWEI",
+		"list" : [
+			{
+				"id" : "5",
+				"name" : "VIVO1",
+				"src" : "418716740_200x200.jpg",
+				"price" : "1854.00",
+				"xiaoliang":23,
+				"pinglun":123,
+				"size":"6英寸",
+				"imgs":["1201077453_360x360.jpg","1299347161_360x360.jpg","1674054737_200x200.jpg","1798486750_360x360.jpg"],
+				"special":["八核内存","全网通"],
+				"shangou":"icon-bl-2.png"
+			}
+		]
+	},
+	"shop6":{
+		"name" : "XIAOMI",
+		"list" : [
+			{
+				"id" : "6",
+				"name" : "VIVO1",
+				"src" : "459915528_200x200.jpg",
+				"price" : "3054.00",
+				"xiaoliang":23,
+				"pinglun":123,
+				"size":"6英寸",
+				"imgs":["1201077453_360x360.jpg","1299347161_360x360.jpg","1674054737_200x200.jpg","1798486750_360x360.jpg"],
+				"special":["八核内存","全网通"],
+				"shangou":"icon-bl-2.png"
+			}
+		]
+	},
+	"shop7":{
+		"name" : "XIAOMI",
+		"list" : [
+			{
+				"id" : "7",
+				"name" : "VIVO1",
+				"src" : "666695115_200x200.jpg",
+				"price" : "3453.00",
+				"xiaoliang":23,
+				"pinglun":123,
+				"size":"6英寸",
+				"imgs":["1201077453_360x360.jpg","1299347161_360x360.jpg","1674054737_200x200.jpg","1798486750_360x360.jpg"],
+				"special":["八核内存","全网通"],
+				"shangou":"icon-bl-2.png"
+			}
+		]
+	},
+	"shop8":{
+		"name" : "XIAOMI",
+		"list" : [
+			{
+				"id" : "8",
+				"name" : "VIVO1",
+				"src" : "666695115_200x200.jpg",
+				"price" : "3453.00",
+				"xiaoliang":23,
+				"pinglun":123,
+				"size":"6英寸",
+				"imgs":["1201077453_360x360.jpg","1299347161_360x360.jpg","1674054737_200x200.jpg","1798486750_360x360.jpg"],
+				"special":["八核内存","全网通"],
+				"shangou":"icon-bl-2.png"
+			}
+		]
+	},
+	"shop9":{
+		"name" : "XIAOMI",
+		"list" : [
+			{
+				"id" : "9",
+				"name" : "VIVO1",
+				"src" : "666695115_200x200.jpg",
+				"price" : "3453.00",
+				"xiaoliang":23,
+				"pinglun":123,
+				"size":"6英寸",
+				"imgs":["1201077453_360x360.jpg","1299347161_360x360.jpg","1674054737_200x200.jpg","1798486750_360x360.jpg"],
+				"special":["八核内存","全网通"],
+				"shangou":"icon-bl-2.png"
+			}
+		]
+	},
+	"shop10":{
+		"name" : "XIAOMI",
+		"list" : [
+			{
+				"id" : "10",
+				"name" : "VIVO1",
+				"src" : "666695115_200x200.jpg",
+				"price" : "3453.00",
+				"xiaoliang":23,
+				"pinglun":123,
+				"size":"6英寸",
+				"imgs":["1201077453_360x360.jpg","1299347161_360x360.jpg","1674054737_200x200.jpg","1798486750_360x360.jpg"],
+				"special":["八核内存"],
+				"shangou":"icon-bl-2.png"
+			}
+		]
+	},
+	"shop11":{
+		"name" : "XIAOMI",
+		"list" : [
+			{
+				"id" : "11",
+				"name" : "VIVO1",
+				"src" : "666695115_200x200.jpg",
+				"price" : "3453.00",
+				"xiaoliang":23,
+				"pinglun":123,
+				"size":"6英寸",
+				"imgs":["1201077453_360x360.jpg","1299347161_360x360.jpg","1674054737_200x200.jpg","1798486750_360x360.jpg"],
+				"special":["八核内存","全网通"],
+				"shangou":"icon-bl-2.png"
+			}
+		]
+	},
+	"shop12":{
+		"name" : "XIAOMI",
+		"list" : [
+			{
+				"id" : "12",
+				"name" : "VIVO1",
+				"src" : "666695115_200x200.jpg",
+				"price" : "3453.00",
+				"xiaoliang":23,
+				"pinglun":123,
+				"size":"6英寸",
+				"imgs":["1201077453_360x360.jpg","1299347161_360x360.jpg","1674054737_200x200.jpg","1798486750_360x360.jpg"],
+				"special":["八核内存"],
+				"shangou":"icon-bl-2.png"
+			}
+		]
+	},
+	"shop13":{
+		"name" : "XIAOMI",
+		"list" : [
+			{
+				"id" : "13",
+				"name" : "VIVO1",
+				"src" : "666695115_200x200.jpg",
+				"price" : "3453.00",
+				"xiaoliang":23,
+				"pinglun":123,
+				"size":"6英寸",
+				"imgs":["1201077453_360x360.jpg","1299347161_360x360.jpg","1674054737_200x200.jpg","1798486750_360x360.jpg"],
+				"special":["八核内存","全网通"],
+				"shangou":"icon-bl-2.png"
+			}
+		]
+	},
+	"shop14":{
+		"name" : "XIAOMI",
+		"list" : [
+			{
+				"id" : "14",
+				"name" : "VIVO1",
+				"src" : "666695115_200x200.jpg",
+				"price" : "3453.00",
+				"xiaoliang":23,
+				"pinglun":123,
+				"size":"6英寸",
+				"imgs":["1201077453_360x360.jpg","1299347161_360x360.jpg","1674054737_200x200.jpg","1798486750_360x360.jpg"],
+				"special":["八核内存"],
+				"shangou":"icon-bl-2.png"
+			}
+		]
+	}
+	
+}
